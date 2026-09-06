@@ -1,0 +1,42 @@
+img{
+
+    width:150px;
+    height:200px;
+    border-radius:0
+    
+
+
+}
+
+body{
+    
+
+    margin:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    border-bottom:10px solid purple;
+    font-family:Verdana,Geneva;
+}
+.text{
+    color:darkblue;
+    font:ariel;
+    text-align:center;
+}
+.whole{
+    width:500px;
+    display:flex;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom:20px;
+    padding-top:20px;
+    justify-content:space-around;
+     background:#ddebf8;
+     border-bottom:5px solid purple;
+     
+}
+
+.borderblue{
+    border: 1px solid lightblue;
+}
